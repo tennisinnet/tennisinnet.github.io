@@ -1,0 +1,72 @@
+.nav{
+    height: 70px;
+    background: lightgray;
+}
+.nav div{
+    display: inline-block;
+    position: absolute;
+    left: 380px;
+    padding: 0px;
+    font-size: 30px;
+}
+.nav ul{
+    position: absolute;
+    right: 380px;
+    bottom: 850px; 
+  font-size: 30px;
+}
+.nav ul li{
+    display: inline-block;
+}
+.nav ul li a{
+    color: green;
+    padding: 20px
+}
+article{
+  position: absolute;
+  left: 380px;
+  right:380px;
+ 
+}
+h1{
+  color: black;
+  font-size: 35px;
+  font-family: lucida bright;
+  
+}
+h2{
+  color: gray;
+  font-size: 30px;
+}
+h3{
+  font-size: 40px;
+  padding: 10px;
+  position: absolute;
+  right:380x;
+  color: black;
+}
+h4{
+  font-size: 30px;
+  position: absolute;
+  padding: 0 0 0 20px;
+  color: black;
+}
+h5{
+  color:black;
+  font-size:30px;
+}
+  .container {
+  display: flex;
+  align-items: top;
+  border-style: solid;
+  
+}
+  .containe {
+  display: flex;
+  border-style: solid;
+  margin-top: 20px;
+}
+p{
+  color:black;
+  font-size: 30px;
+}

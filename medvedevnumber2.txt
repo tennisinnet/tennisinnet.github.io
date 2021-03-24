@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TennisinneT</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+   <div class="nav">
+     <a href="./index.html"><div><img src="LOGO.PNG" width="70" height="70"></div>
+		<ul>
+      <li><a href="./index.html">Home</a></li>
+      <li><a href="./about.html">About</a></li>
+			<li><a href="./contact.html">Contact</a></li>
+		</ul>
+	</div>
+     <article>
+       <h1 style="color:green;">Medvedev to become world <br>number 2! When? And how?</h1>
+       <p>It is official, for the first time since 2005 we will have a new world number 2 <br>that isn't a part of the big 4 (Federer,Djokovic,Nadal,Murray).And the player <br>to become number two will be Medvedev!!</p>
+       <img src=Medvedev.jpg width="900" height="504">
+       <h5>When? And How?</h5>
+       <p>He could have already passed Nadal by arriving to the Rotterdam final but<br> he was eliminated in the early tours but Lajovic shocking all the fans.<br> He will become number 2 in the world on 15 March. The last number two<br> (not a part of the big 4) was Hewitt.</p>
+        
+        <video width="900" height="504" controls>
+<source src="ATP CUP- Medvedev-Berrettini.mp4" type=video/mp4>
+       </video>
+       <p>On 15 March ATP Marseille will be finished and the ranking will be uptaded.<br> In reality he already passed Nadal but it will be officialy confirmed when <br>the tournament finishes.  </p>
+<a href="./index.html"><h5>Click to return to the HomePage</h5></a>
+  </article>
+</body>
+</html>
